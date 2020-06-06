@@ -31,7 +31,7 @@ de estas características
 
 ### Redmine
 
-&nbsp;&nbsp;Redmine es una aplicación web de gestión de proyectos flexibles. Escrito usando el marco de &nbsp;&nbsp;Ruby on Rails, es multiplataforma y base de datos cruzada.
+&nbsp;&nbsp;Redmine es una aplicación web de gestión de proyectos flexibles. Escrito usando el marco de Ruby on Rails, es &nbsp;&nbsp;multiplataforma y base de datos cruzada.
 
 &nbsp;&nbsp;Redmine es de código abierto y se publica bajo los términos de la [GNU General Public License &nbsp;&nbsp;v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) (GPL).
 
