@@ -86,7 +86,7 @@ Lea más sobre las [funciones de Redmine](link).
 
 ---
 
-###Demostración en línea
+### Demostración en línea
 
 Se puede encontrar una demostración en línea compartida en http://demo.redmine.org/ . Se ha configurado para dar a los usuarios registrados la posibilidad de crear sus propios proyectos. Esto significa que una vez que se registre, puede crear su propio proyecto allí y probar las funciones de administración del proyecto.
 
@@ -94,7 +94,7 @@ Alternativamente, puede obtener su propio entorno de demostración de Redmine en
 
 ---
 
-###Soporte y ayuda
+### Soporte y ayuda
 
 Para obtener ayuda o hablar sobre Redmine, puede navegar por los **[foros de Redmine](link)** alojados aquí en Redmine. También tenemos una **[sala de chat](link)** : únete a #redmine en la [red](link) IRC de [freenode](link) .
 
@@ -102,7 +102,7 @@ Antes de enviar un informe de error, un parche o una solicitud de función aquí
 
 ---
 
-###Contribuyendo y ayudando
+### Contribuyendo y ayudando
 
 Redmine es construida y mantenida por voluntarios de la comunidad. Si le gusta usarlo y desea retribuir a la comunidad, la página [Contribute](link) tiene varias ideas. No se requiere experiencia en desarrollo de software. Consulte la página de [equipos](link) si está interesado en un área específica para contribuir regularmente.
 
@@ -110,5 +110,5 @@ También puede hacer una donación y aparecer en la [página de Donantes de Redm
 
 ---
 
-###¿Quién usa Redmine?
+### ¿Quién usa Redmine?
 [Esta página enumera](link) algunas empresas y proyectos que usan Redmine.
