@@ -1,4 +1,5 @@
-#Evaluación personal sobre redmine :)
+#Evaluación personal sobre redmine 
+
 <br>
 
 **Lo que me gusta**
@@ -28,7 +29,7 @@ aprender como instalar y desplegar una aplicación de estas características
 ```
 
 
-#Documentación sobre redmine :|
+#Documentación sobre redmine 
 
 ### Redmine
 
