@@ -19,7 +19,11 @@
 ```
 **Recomendado para**
 ```markdown
-Recomiendo Easy Redmine para pequeñas o medianas compañías que no quieren tener que vérselas con la instalación y mantenimiento de su propio servidor de aplicaciones. Esas empresas habitualmente no tienen un informático a tiempo completo en su plantilla y prefieren enfocarse en su negocio antes que invertir tiempo en aprender como instalar y desplegar una aplicación de estas características
+Recomiendo Easy Redmine para pequeñas o medianas compañías que no quieren tener que vérselas 
+con la instalación y mantenimiento de su propio servidor de aplicaciones. Esas empresas 
+habitualmente no tienen un informático a tiempo completo en su plantilla y prefieren enfocarse 
+en su negocio antes que invertir tiempo en aprender como instalar y desplegar una aplicación 
+de estas características
 ```
 
 
